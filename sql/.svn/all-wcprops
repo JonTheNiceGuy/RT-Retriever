@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/jon_code/!svn/ver/60/RadioTimes/sql
+END
+freeview_channel-map.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jon_code/!svn/ver/59/RadioTimes/sql/freeview_channel-map.sql
+END
+radiotimes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jon_code/!svn/ver/59/RadioTimes/sql/radiotimes.sql
+END
+virginmedia_channel-map.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/jon_code/!svn/ver/60/RadioTimes/sql/virginmedia_channel-map.sql
+END
